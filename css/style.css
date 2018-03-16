@@ -1,0 +1,31 @@
+/* GENERALITES */
+#accueil .col-gauche h2{
+	font-size: 16px;
+	font-weight: bold;
+	
+}
+#accueil .col-gauche h3{
+	font-size: 14px;
+	font-style: italic;
+}
+
+
+section{
+	min-height: 800px;
+}
+
+
+/* FOOTER */
+#footer{
+	height: 30px;
+	background: #F8F8F8;
+}
+#footer a{
+	margin: 5px;
+	line-height: 30px;
+	color: #ccc;
+	text-decoration: none;
+}
+#footer a:hover{
+	color: #000;
+}
